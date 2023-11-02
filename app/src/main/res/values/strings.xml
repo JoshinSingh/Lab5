@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lab 5</string>
+    <string name="sendMessage">Send</string>
+    <string name="receiveMessage">Receive</string>
+    <string name="typeHereMessage">Type here</string>
+</resources>

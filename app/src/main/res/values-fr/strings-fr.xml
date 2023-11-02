@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Laboratoire 5</string>
+    <string name="sendMessage">Envoyer</string>
+    <string name="receiveMessage">Recevoir</string>
+    <string name="typeHereMessage">Écrivez ici</string>
+
+</resources>
